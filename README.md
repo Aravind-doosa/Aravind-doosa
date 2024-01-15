@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aravind-doosa](https://github.com/Aravind-doosa)
 
-- 📝 I regularly write a book [Which i learn my own things](Which i learn my own things)
+- 📝 I regularly Read a book 
 
 - 💬 Ask me about **React, Html, Databases**
 
