@@ -9,7 +9,7 @@
 
 - 🌱  Learning **Django, Pandas, Numpy**
 
-- 👯 I’m looking to Work on  PyAudio, Api's, Frame works
+- 👯 I’m looking to Work on  Python Frame works, Frontend Developing, Backend Developing
 
 - 🤝 I have worked on **Web Application using (python, Django)**
 
