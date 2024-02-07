@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Ecommerce website**
 
-- 🌱 I’m currently learning **Django, Pandas, Numpy**
+- 🌱  Learning **Django, Pandas, Numpy**
 
 - 👯 I’m looking to Work on  PyAudio, Api's, Frame works
 
