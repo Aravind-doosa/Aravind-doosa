@@ -35,5 +35,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aravind-doosa&show_icons=true&locale=en" alt="aravind-doosa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravind-doosa&" alt="aravind-doosa" /></p>
-
