@@ -5,19 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravind-doosa&label=Profile%20views&color=0e75b6&style=flat" alt="aravind-doosa" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce website**
+- 🔭 Frontend, Backend, C++, Python
 
-- 🌱  Learning **Django, Pandas, Numpy**
+- 🌱  Discipline
 
-- 👯 I’m looking to Work on  Python Frame works, Frontend Developing, Backend Developing
+- 👯 Integrated Third Party Api to Google and Facebook Authentication
 
-- 🤝 I have worked on **Web Application using (python, Django)**
+- 🤝 Worked on **Web Application using (python, Django)**
+  
+-  📝 Completed Web development Bootcamp BY ANGELA YU in Udemy
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aravind-doosa](https://github.com/Aravind-doosa)
-
-- 📝 I regularly Read a book 
-
-- 💬 Ask me about **React, Html, Databases**
 
 - 📫 How to reach me **aravinddoosa@gmail.com**
 
