@@ -7,8 +7,6 @@
 
 - 🔭 Frontend, Backend, C++, Python
 
-- 🌱  Discipline
-
 - 👯 Integrated Third Party Api to Google and Facebook Authentication
 
 - 🤝 Worked on **Web Application using (python, Django)**
